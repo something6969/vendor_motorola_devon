@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<permissions>
+    <privapp-permissions package="com.rjio.slc">
+        <permission name="android.permission.READ_PRIVILEGED_PHONE_STATE"/>
+        <permission name="com.qualcomm.qti.permission.REMOTE_SIMLOCK"/>
+    </privapp-permissions>
+</permissions>
